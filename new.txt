@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hello everyone here
-=======
 Hello all
->>>>>>> e9848d131f68b4b586836a056c6cdfd1152ad738
+
